@@ -1,0 +1,39 @@
+# Carzo
+
+Carzo is a European used-car search and marketplace bridge. It helps users search across marketplaces such as Kleinanzeigen, AutoScout24, OLX, Otomoto, Mobile.de and other local platforms, then use filters, Telegram alerts and AI-assisted listing analysis to evaluate vehicles faster.
+
+## Primary pages
+
+- Homepage: https://carzo.site/
+- Public catalog: https://carzo.site/app/feed
+- About: https://carzo.site/about
+- Support: https://carzo.site/support
+- Privacy: https://carzo.site/privacy
+- Terms: https://carzo.site/terms
+- Cookies: https://carzo.site/cookies
+- Guides: https://carzo.site/blog
+- Automotive magazine / digest: https://carzo.site/magazine
+- Pricing data: https://carzo.site/pricing.md
+
+## What Carzo does
+
+- Public search and sorting of used-car listings without requiring login.
+- Natural-language AI search that turns buyer phrases into filters.
+- AI-assisted vehicle analysis that highlights risks, strengths, common model issues and seller-description signals.
+- Telegram alerts for new cars matching saved search profiles.
+- Planned marketplace-account bridge for messaging, saved listings, auto-replies and cross-posting from user-owned platform accounts.
+
+## Editorial and SEO resources
+
+- European used-car market digest: https://carzo.site/magazine/europe-used-car-market-2026-digest
+- TÜV/HU facts before buying in Germany: https://carzo.site/magazine/tuv-hu-facts-before-buying
+- Fuel guide for petrol, diesel, hybrid and EV used cars: https://carzo.site/magazine/fuel-diesel-petrol-hybrid-ev-europe
+- Aachen / Cologne / border-region radius search guide: https://carzo.site/magazine/germany-car-search-radius-aachen-cologne-border
+- Seller-description red flags for AI-assisted vehicle analysis: https://carzo.site/magazine/used-car-red-flags-seller-description
+- Mileage facts for used cars: https://carzo.site/magazine/mileage-facts-used-cars
+- Price-drop alert logic for saved cars: https://carzo.site/magazine/price-drop-alerts-used-cars
+
+## Support
+
+- Email: support@carzo.site
+- Telegram bot: https://t.me/dzin_dzin_bot

@@ -1,0 +1,22 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Carzo">
+  <defs>
+    <linearGradient id="bg" x1="16" y1="12" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020711" />
+      <stop offset="1" stop-color="#071529" />
+    </linearGradient>
+    <linearGradient id="z" x1="70" y1="36" x2="113" y2="94" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" />
+      <stop offset="1" stop-color="#3D6EF0" />
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="url(#bg)" />
+  <path d="M30 43h35c8 0 14 3 18 9l-12 8c-2-3-5-4-9-4H33c-10 0-17 7-17 16s7 16 17 16h33c4 0 8-1 11-4l10 10c-5 5-12 8-21 8H30C13 102 4 89 4 72s9-29 26-29Z" fill="#F8FBFF" filter="url(#glow)" />
+  <path d="M76 38h43L90 67h31L80 102H38l30-29H36l40-35Z" fill="url(#z)" filter="url(#glow)" />
+</svg>
